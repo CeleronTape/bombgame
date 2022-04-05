@@ -1,0 +1,102 @@
+h1 {
+  text-align: center;
+  font-size: 350%;
+}
+
+.experition {
+  text-align: center;
+  font-size: 200%;
+  margin-bottom: 10vw;
+}
+
+.game1 {
+  position: relative;
+  border: solid;
+  height: 50vw;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.bomb_img0 {
+  width: 30vw;
+  height: 20vw;
+  float: left;
+  margin: 1vw;
+  border:solid;
+}
+
+.timer {
+  background-color: blue;
+  width: 35vw;
+  height: 10vw;
+  float: right;
+  margin: 2vw 8vw;
+  font-size:5vw;
+  text-align:center;
+  color:white;
+  line-height:1vw;
+}
+
+.btn00 {
+  text-align: center;
+  margin-top: 10vw;
+}
+
+.btnbtn {
+  width: 15vw;
+  height: 5vw;
+}
+
+.tenkey {
+  margin-top: 5vw;
+  text-align: center;
+}
+
+.tenkey_btn {
+  width: 23vw;
+  height: 6vw;
+  margin: 1vw 2vw;
+}
+
+.active {
+  background-color: red;
+}
+
+.answer {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  font-size: 6vw;
+  background-color: gray;
+  width: 70vw;
+  text-align: center;
+  height: 20vw;
+}
+
+.miss a {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  font-size: 6vw;
+  background-color: gray;
+  width: 70vw;
+  text-align: center;
+  height: 20vw;
+}
+
+.final_btn {
+  position: absolute;
+  top: 50%;
+  right: 33%;
+  width: 30vw;
+  height: 6vw;
+}
+
+.final_btn0 {
+  position: absolute;
+  top: 70%;
+  right: 33%;
+  width: 30vw;
+  height: 6vw;
+}
+/*# sourceMappingURL=main.css.map */
